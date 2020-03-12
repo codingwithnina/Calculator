@@ -1,0 +1,14 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "neumorphism",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass --watch scss -o css"
+  },
+  "author": "Nina",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
+}
